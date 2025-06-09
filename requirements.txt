@@ -63,7 +63,6 @@ msgpack==1.1.0
 narwhals==1.31.0
 nest-asyncio==1.6.0
 networkx==3.4.2
-numba==0.60.0
 numpy==2.0.2
 onnxruntime==1.22.0
 opencv-python-headless==4.11.0.86
